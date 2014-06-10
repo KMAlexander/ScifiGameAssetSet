@@ -1,6 +1,6 @@
 ![My image](https://raw.githubusercontent.com/KMAlexander/ScifiGameAssetSet/master/Title.jpg)
 
-Thanks for downloading and checking out the SKYHOOK ASSET PACK.
+Thanks for downloading and/or checking out the SCI-FI ASSET PACK.
 
 A few years ago I was working on a sci-fi adventure game with some friends when I stopped to focus my work on a urban fantasy thriller novel. Since the work stopped and the team disbanded I decided that instead of keeping all the work private it’d be better to share it with a community that might be able to take what I did and make something cool from what I started.
 
