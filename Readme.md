@@ -8,10 +8,15 @@ A few years ago I was working on a sci-fi adventure game with some friends when 
 
 I hope you find this a decent base for you to build on.  I’d love to see what you do with this, feel free to email me: hello@kmalexander.com and let me know what you make!
 
+- - - - - - - - - - - - - - - - - - - - -
+
 
 You keep making great games and I’ll keep writing books.
+
 My Blog: http://blog.kmalexander
+
 My Book: http://thestarswereright.kmalexander.com
+
 My Twitter: @KM_Alexander
 
 - - - - - - - - - - - - - - - - - - - - -
