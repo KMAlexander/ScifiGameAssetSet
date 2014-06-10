@@ -1,4 +1,4 @@
-![My image](kmalexander.github.com/ScifiGameAssetSet/Example.jpg)
+![My image](https://raw.githubusercontent.com/KMAlexander/ScifiGameAssetSet/master/Example.jpg)
 
 Thanks for downloading and checking out the SKYHOOK ASSET PACK.
 
