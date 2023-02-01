@@ -23,11 +23,11 @@ I hope you find this a decent base for you to build on. I’d love to see what y
 
 You keep making great games and I’ll keep writing (hopefully) great books.
 
-My Blog: http://blog.kmalexander
+My Blog: https://kmalexander.com/
 
-My Book: http://thestarswereright.kmalexander.com
+My Books: https://kmalexander.com/my-books/the-bell-forging-cycle/
 
-My Twitter: https://twitter.com/km_alexander
+My Other Free Resources: https://kmalexander.com/free-stuff/fantasy-map-brushes/
 
 - - - - - - - - - - - - - - - - - - - - -
 
